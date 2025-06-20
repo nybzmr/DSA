@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+#cph judge
+*.prob
+
+#binary
+*.bin
+
+#vs code
+*.vscode
